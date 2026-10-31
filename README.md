@@ -1,2 +1,20 @@
-# cake-website-using-css-and-html
-A responsive Cake Website built using HTML and CSS, featuring an attractive design, delicious cake displays, and a user-friendly interface for exploring cake varieties.
+# 🎂 Cake Website
+
+## 📌 About the Project
+Cake Website is a responsive and visually appealing website developed using HTML and CSS. It showcases a variety of delicious cakes with attractive layouts, beautiful images, and an easy-to-use interface.
+
+## ✨ Features
+- Attractive and responsive website design.
+- Beautiful cake displays and images.
+- User-friendly navigation.
+- Organized cake categories.
+- Clean and appealing layout.
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+
+## 👩‍💻 Developer
+**Noor Saba**
+
+GitHub: [noorsaba02](https://github.com/noorsaba02)
