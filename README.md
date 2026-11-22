@@ -17,7 +17,7 @@ Cake Website is a responsive and visually appealing website developed using HTML
   ## ScreenShots
 <img width="725" height="605" alt="Screenshot 2026-11-22 204955" src="https://github.com/user-attachments/assets/dfea800c-a5f8-4e60-bacd-8b77cdd51a40" />
 <img width="1335" height="607" alt="Screenshot 2026-11-22 204736" src="https://github.com/user-attachments/assets/9b993504-9f24-4375-9e9e-3cc3e79e6c39" />
-<img width="1355" height="645" alt="Screenshot 2026-11-22 204704" src="https://github.com/user-attachments/assets/ab830b17-f10c-4faa-99ea-c5f6f2cadf9f" />
+
 
 
 
